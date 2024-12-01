@@ -1,0 +1,26 @@
+#Counter {
+    font-family: monospace;
+    text-align: center;
+    font-size: 150px;
+    font-weight: lighter;
+}
+
+#plus {
+    font-size: 300px;
+}
+
+#minus {
+    font-size: 300px;
+}
+
+#devide {
+    font-size: 300px;
+}
+
+#mult {
+    font-size: 300px;
+}
+
+#reset {
+    font-size: 20px;
+}
