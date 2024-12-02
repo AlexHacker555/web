@@ -9,7 +9,7 @@ document.getElementById('invis').textContent = "";
 })
 document.getElementById("3").addEventListener("click", () => {
 display.textContent += "3"
-
+document.getElementById('invis').textContent = "";
 })
 document.getElementById("4").addEventListener("click", () => {
 display.textContent += "4"
