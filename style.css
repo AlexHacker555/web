@@ -8,7 +8,7 @@
     margin:0px;
     background-color: #ff4a002e;
 }
-.class:hover {
+.class button:hover {
     background-color: aqua;
 }
 .class h1, hr{
