@@ -4,3 +4,13 @@
 .class h1 {
     margin: 0px;
 }
+.class button {
+    margin:0px;
+    background-color: #ff4a002e;
+}
+.class:hover {
+    background-color: aqua;
+}
+.class h1, hr{
+margin:0px;
+}
